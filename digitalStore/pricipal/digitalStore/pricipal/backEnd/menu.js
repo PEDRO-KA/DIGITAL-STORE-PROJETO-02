@@ -1,0 +1,1 @@
+var menuItem = document.querySelectorAll(".iten-menu")
