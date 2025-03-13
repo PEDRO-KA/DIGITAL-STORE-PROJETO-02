@@ -164,6 +164,15 @@ header .flex-header_primary{
     transition: .3s;
 }
 
+.menu-lateral ul li.ativo {
+    background-color: var(--primary-color);
+    border-left: 4px solid #fff;
+}
+
+.menu-lateral ul li.ativo a {
+    font-weight: 600;
+}
+
 .menu-lateral ul li:hover{
     background-color: var(--primary-color);
 }
